@@ -1,0 +1,3 @@
+1. if array is given check if it can be solve with sortings 
+2. normally 900 rated problems are of greedy approach . so try to solve it with greedy approach
+3. 
