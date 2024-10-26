@@ -5,7 +5,7 @@ int n,x;
 int arr[100100];
 
 int check(int mid){
-    if(arr[mid]>=x ) return 1;
+    if(arr[mid]>x ) return 1;
     else return 0;
 }
 int main()
